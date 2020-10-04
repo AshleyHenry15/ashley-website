@@ -32,6 +32,12 @@ subtitle = ""
   name = "Exploration"
   description = "75%"
 
+  [[feature]]
+  icon = "file-code"
+  icon_pack = "fal"
+  name = "Web basics"
+  description = "50%"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
