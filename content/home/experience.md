@@ -34,12 +34,25 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Technical Writer - Contract"
+  company = "MetLife"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Remote/Troy, NY"
+  date_start = "2019-04-01"
+  date_end = "2016-10-11"
+  description = """Authored, edited, and reviewed Standard Operating Procedures.
+  (SOPs)
+  """
+
+  [[experience]]
+  title = "Technical Writer - Contract"
+  company = "Warner Bros. Games NY"
+  company_url = ""
+  location = "Troy, NY"
+  date_start = "2017-11-01"
+  date_end = "2018-12-07"
+  description = """Improved internal documentation of our technology, processes,
+  products, and procedures. Actively worked with REST APIs and SDKs to update
+  our documentation, as needed."""
 
 +++
