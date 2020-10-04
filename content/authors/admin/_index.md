@@ -14,8 +14,8 @@ role: Technical Writer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: RStudio, PBC.
+  url: "www.rstudio.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
