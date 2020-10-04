@@ -27,16 +27,10 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
+  icon = "search-plus"
+  icon_pack = "fal"
   name = "Exploration"
   description = "75%"
-
-  [[feature]]
-  icon = "file-code"
-  icon_pack = "fal"
-  name = "Web basics"
-  description = "50%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
