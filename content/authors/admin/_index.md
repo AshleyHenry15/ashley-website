@@ -72,6 +72,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ashley Henry is a technical writer at RStudio, PBC. She has been creating
+software-focused documentation for more than eight years. She also enjoys using
+her graphic design education to organize and style content resulting in
+user-friendly documentation. She acts as the documentation liaison between the
+professional product teams, enforces documentation standards, triages documentation issues, creates and maintains
+content, and works with support to identify reoccurring issues that may be solved by
+improving documentation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
