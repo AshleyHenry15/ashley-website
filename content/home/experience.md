@@ -18,18 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Technical Writer"
+  company = "RStudio, PBC"
+  company_url = "http://rstudio.com"
+  location = "Remote"
+  date_start = "2019-10-15"
+  date_end = "Current"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Writing clear and concise user-friendly documentation
+  * Identifying documentation gaps
+  * Implementing feedback to improve documentation
+  * Learning software to write and test documentation
+ 
   """
 
 [[experience]]
