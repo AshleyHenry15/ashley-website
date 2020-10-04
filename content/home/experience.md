@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://rstudio.com"
   location = "Remote"
   date_start = "2019-10-15"
-  date_end = "Current"
+  date_end = """
   description = """
   Responsibilities include:
   
