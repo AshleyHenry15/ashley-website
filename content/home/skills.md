@@ -22,13 +22,13 @@ subtitle = ""
   
 [[feature]]
   icon = "comments"
-  icon_pack = "fad"
+  icon_pack = "far"
   name = "Communication"
   description = "100%"  
   
 [[feature]]
-  icon = "search-plus"
-  icon_pack = "fal"
+  icon = "searchengin"
+  icon_pack = "fab"
   name = "Exploration"
   description = "75%"
 
