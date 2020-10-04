@@ -15,17 +15,15 @@ role: Technical Writer
 # Organizations/Affiliations
 organizations:
 - name: RStudio, PBC.
-  url: "www.rstudio.com"
+  url: "http://rstudio.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include technical writing, learning new software,
-binge-watching The Office, arts and crafts, and renovating her Class A motorhome.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Technical writing
-- Learning software
-- RV Renovations
-- Reality competition shows
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
