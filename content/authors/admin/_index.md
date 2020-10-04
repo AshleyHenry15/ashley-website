@@ -18,7 +18,9 @@ organizations:
   url: "www.rstudio.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include technical writing, learning new software,
+binge-watching The Office, arts and crafts, and renovating her Class A
+motorhome.
 
 interests:
 - Artificial Intelligence
