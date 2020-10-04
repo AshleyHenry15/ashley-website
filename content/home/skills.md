@@ -15,16 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "markdown"
-  icon_pack = "fab"
-  name = "markdown"
+  icon = "edit"
+  icon_pack = "far"
+  name = "Technical writing"
   description = "90%"
   
 [[feature]]
   icon = "comments"
   icon_pack = "far"
   name = "Communication"
-  description = "100%"  
+  description = "95%"  
   
 [[feature]]
   icon = "searchengin"
