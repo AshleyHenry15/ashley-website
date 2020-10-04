@@ -21,9 +21,9 @@ date_format = "Jan 2006"
   title = "Technical Writer"
   company = "RStudio, PBC"
   company_url = "http://rstudio.com"
-  location = "Remote"
+  location = "Rmote"
   date_start = "2019-10-15"
-  date_end = """
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -31,7 +31,6 @@ date_format = "Jan 2006"
   * Identifying documentation gaps
   * Implementing feedback to improve documentation
   * Learning software to write and test documentation
- 
   """
 
 [[experience]]
