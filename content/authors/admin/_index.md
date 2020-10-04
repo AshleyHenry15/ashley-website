@@ -23,9 +23,10 @@ binge-watching The Office, arts and crafts, and renovating her Class A
 motorhome.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Technical writing
+- Learning software
+- RV Renovations
+- Reality competition shows
 
 education:
   courses:
