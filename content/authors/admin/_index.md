@@ -19,8 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include technical writing, learning new software,
-binge-watching The Office, arts and crafts, and renovating her Class A
-motorhome.
+binge-watching The Office, arts and crafts, and renovating her Class A motorhome.
 
 interests:
 - Technical writing
