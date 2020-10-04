@@ -31,7 +31,7 @@ education:
   - course: BS Interdisciplinary Studies
     institution: Fitchburg State University
     year: 2011
-  - course: Minor: Communications Media: Graphic Design
+  - course: Minor, Communications Media Graphic Design
     institution: Fitchburg State University
     year: 2011
 
